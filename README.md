@@ -4,7 +4,7 @@ A live dashboard of earthquakes in and around Japan, built with plain HTML, CSS 
 
 **Live demo:** _add your GitHub Pages or Vercel link here_
 
-![screenshot](screenshot.png)  <!-- add a screenshot before submitting -->
+
 
 ## Why I built it
 Earthquakes are part of daily life in Japan. I wanted a fast, readable view of what is happening right now, with the language switchable between English and Japanese.

@@ -2,7 +2,7 @@
 
 A live dashboard of earthquakes in and around Japan, built with plain HTML, CSS and JavaScript (no build step).
 
-**Live demo:** _add your GitHub Pages or Vercel link here_
+**Live demo:** https://roh34535.github.io/Japan-earthquake-watch/
 
 
 
